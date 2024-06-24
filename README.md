@@ -11,23 +11,23 @@ This project is a comprehensive data engineering solution for analyzing Formula 
 ## Solution Architecture
 The architecture of this solution integrates multiple Azure services to create a robust and scalable data pipeline:
 
-*Azure Databricks:* For data processing and transformation using PySpark and SQL.
-*Azure Data Lake Gen2:* For storage of raw and processed data.
-*Azure Data Factory:* For orchestrating and automating data workflows.
-*Power BI:* For creating interactive dashboards to visualize the outputs.
+***Azure Databricks:*** For data processing and transformation using PySpark and SQL.
+***Azure Data Lake Gen2:*** For storage of raw and processed data.
+***Azure Data Factory:*** For orchestrating and automating data workflows.
+***Power BI:*** For creating interactive dashboards to visualize the outputs.
 
 ##Key Components
-Azure Databricks
-Creating and Configuring Databricks Service:
+### **Azure Databricks**
 
-Setting up the Azure Databricks workspace.
-Configuring clusters, cluster pools, and jobs for efficient resource management.
-Databricks Notebooks:
+- **Creating and Configuring Databricks Service:**
+  - Setting up the Azure Databricks workspace.
+  - Configuring clusters, cluster pools, and jobs for efficient resource management.
 
-Using Databricks notebooks for interactive data analysis and development.
-Utilizing Databricks utilities and magic commands for streamlined workflows.
-Passing parameters between notebooks and creating notebook workflows for modular code execution.
-Data Integration and Transformation:
+- **Databricks Notebooks:**
+  - Using Databricks notebooks for interactive data analysis and development.
+  - Utilizing Databricks utilities and magic commands for streamlined workflows.
+  - Passing parameters between notebooks and creating notebook workflows for modular code execution.
+  - Data Integration and Transformation:
 
 Mounting Azure Storage in Databricks using secrets from Azure Key Vault.
 Working with Databricks Tables and Databricks File System (DBFS).
