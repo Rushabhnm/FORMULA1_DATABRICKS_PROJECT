@@ -1,6 +1,15 @@
 # FORMULA1_DATABRICKS_PROJECT
 
 
-<img width="750" alt="f1_pipeline.png" src="https://github.com/Rushabhnm/FORMULA1_DATABRICKS_PROJECT/assets/f1_pipeline.png">
+![Pipeline Diagram](assets/f1_pipeline.png)
+
+# Formula 1 Databricks Project
+
+This project involves creating a pipeline for analyzing Formula 1 data.
+
+## Pipeline Diagram
+
+![Pipeline Diagram](assets/f1_pipeline.png)
+
 
 
