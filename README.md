@@ -90,13 +90,4 @@ The architecture of this solution integrates multiple Azure services to create a
 
 This project demonstrates the power and flexibility of Azure Databricks, Delta Lake, Unity Catalog, and Azure Data Factory in building a scalable and efficient data engineering solution. By leveraging these technologies, we can process and analyze large datasets effectively and gain valuable insights into Formula 1 racing.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/yourusername/f1-racing-analysis.git
-   cd f1-racing-analysis
-
 
